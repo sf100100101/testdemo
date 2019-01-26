@@ -1,0 +1,23 @@
+{
+  "name": "gxldemo",
+  "version": "1.0.1",
+  "description": "my first npm",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackwuxin/testdemo.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "dependencies": {
+    "react": "^16.7.0",
+    "webpack": "^4.29.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
